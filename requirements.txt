@@ -1,0 +1,6 @@
+streamlit
+pillow~=10.4.0
+pathlib
+pandas~=2.2.2
+PyYAML~=6.0.1
+streamlit-authenticator

@@ -1,0 +1,2 @@
+cd .\.venv\Scripts\
+.\streamlit.exe run "C:\Users\user\PycharmProjects\360 Appraisal System\Home.py"

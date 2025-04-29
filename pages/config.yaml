@@ -1,0 +1,98 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      failed_login_attempts: 5
+      logged_in: false
+      name: Appraisal Admin
+      password: $2b$12$83HECqkyTnOC50dMJT8/lu5tCMcU9fQ/GNFfOpGtdqyvX/pYoNnwy
+    appraisee:
+      email: appraisee@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Appraisee
+      password: $2b$12$u2RjbYoeawbEtR8.GGa/O.mgQFPb0KtaF/2uArcE.9h0lK4fC.vi2
+    customer1:
+      email: customer1@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Customer1
+      password: $2b$12$7nByJJlwlhROZRLHFEIF.OOgAxqu.KFj.galABNqPPPCUfaTjIndS
+    customer2:
+      email: customer2@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Customer2
+      password: $2b$12$zFFCfYUs1R92DHdj13SwFu6Sz0KwL5zGYI4LRWprFMI4vlfRKR5S2
+    customer3:
+      email: customer3@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Customer3
+      password: $2b$12$RJKScEOkOfd.4Eliai/AruGlk3yv3g1WWnMgDXAHiSJ6FhtlbsaCi
+    hod1:
+      email: hod1@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Hod1
+      password: $2b$12$tk4yoKqk.ArQmhvvBsaS9OsVZ2bxTBudxElZy3QnejButl7mTydEi
+      dpt: Dpt of CS and IT
+    hod2:
+      email: hod2@gmail.com
+      logged_in: false
+      name: Appraisal Hod2
+      password: $2b$12$0f5WqRzN91VDAxn3OoNygeJj1wpgrFC5AyCODlnX7pLdD3.Cds0wC
+      dpt: Dpt of Electrical and Electronics Engineering
+    peer1:
+      email: peer1@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Peer1
+      password: $2b$12$LONp5x6naxGjas9uCBZqWuRq4AOPmoij1Dbm5n.sdD0lwc38le..W
+      dpt: Dpt of Mechatronics Engineering
+    peer2:
+      email: peer2@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Peer2
+      password: $2b$12$p2wJfbjKvbGMu8P/JjrlYOHWAX1kzxg0L75neH..abUutxP0v.IAm
+    peer3:
+      email: peer3@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Peer3
+      password: $2b$12$cRv3m15uyEeCGtozqY/Vcekf788vSiS.CFyexwS5qc3IMxTjNC5hm
+    sub1:
+      email: sub1@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Subordinate1
+      password: $2b$12$feWTLCA67ZLwnOTM6gKDKuKur2H3xqA4CMnUZqqhJTb.kfUSY/NyW
+      id: 456
+    sub2:
+      email: sub2@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Subordinate2
+      password: $2b$12$a9Df7CBWBrdWC5m0mrbDKOK6iSuSq4QqqtflB7v2tsgDmT3fgcR0e
+      id: 457
+    sub3:
+      email: sub3@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Appraisal Subordinate3
+      password: $2b$12$UkfELJ41CUjtuwurFeZhvO3ktl.UCDDBcVBEr1e4eyqProKgKUaBG
+      id: 458
+    hr:
+      email: hr@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Human Resource
+      password: $2b$12$UkfELJ41CUjtuwurFeZhvO3ktl.UCDDBcVBEr1e4eyqProKgKUaBG
+      id: 458
+pre-authorized:
+  emails: admin@gmail.com
